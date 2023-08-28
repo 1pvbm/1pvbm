@@ -1,6 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="/assets/img/Pedro(1).png"/>
+![Pedro (1)](https://github.com/1pvbm/1pvbm/assets/143045254/c1c5415c-7555-441e-948a-3fdbb642bc07)
 &nbsp;&nbsp;&nbsp;
-
 <p align="center">I ❤️ solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
