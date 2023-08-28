@@ -1,4 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/1pvbm/1pvbm/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="![image](https://github.com/1pvbm/1pvbm/assets/143045254/cf496c46-dd4d-452b-b287-b9776e0d3a18)
+" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
